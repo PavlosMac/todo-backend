@@ -65,6 +65,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:4200',
+    'https://enigmatic-temple-40939.herokuapp.com'
 ]
 
 ROOT_URLCONF = 'todoapp.urls'
